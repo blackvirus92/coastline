@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/s/:kind/:id", "destination": "/api/share?kind=:kind&id=:id" }
-  ]
-}
